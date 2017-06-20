@@ -4,4 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-![Firewerkz]({{ site.baseurl }}/images/Firewerkz.png "Firewerkz")
+[![Firewerkz]({{ site.baseurl }}/images/Firewerkz.png "Firewerkz")](http://firewerkz.me)
+
+[![TimeToGo]({{ site.baseurl }}/images/TtG128.png "TimeToGo")](https://firewerkz.github.io/TimeToGo/)
