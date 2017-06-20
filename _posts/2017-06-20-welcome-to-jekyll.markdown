@@ -7,6 +7,6 @@ categories:
 
 Just starting my app development journey.
 
-[TimeToGo](https://firewerkz.github.io/TimeToGo/)
+[![TimeToGo]({{ site.baseurl }}/images/TtG128.png "TimeToGo")](https://firewerkz.github.io/TimeToGo/)
 
 All the best, Dick.
